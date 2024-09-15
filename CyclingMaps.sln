@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CyclingMaps", "CyclingMaps\CyclingMaps.csproj", "{B4C44D76-EDDE-442E-98E9-103811FD8260}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyclingMaps.Tests", "CyclingMaps.Tests\CyclingMaps.Tests.csproj", "{C64358EF-6AE2-4477-AEE3-21CD29321F4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4C44D76-EDDE-442E-98E9-103811FD8260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4C44D76-EDDE-442E-98E9-103811FD8260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4C44D76-EDDE-442E-98E9-103811FD8260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4C44D76-EDDE-442E-98E9-103811FD8260}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C64358EF-6AE2-4477-AEE3-21CD29321F4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C64358EF-6AE2-4477-AEE3-21CD29321F4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C64358EF-6AE2-4477-AEE3-21CD29321F4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C64358EF-6AE2-4477-AEE3-21CD29321F4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96A50DEF-9FC2-44AF-9546-2AD1874FA206}
+	EndGlobalSection
+EndGlobal
